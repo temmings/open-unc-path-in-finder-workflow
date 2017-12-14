@@ -2,6 +2,13 @@
 
 Service for Automator.
 
+## What is UNC path
+
+examples:
+
+- `\\server\directory`
+- `\\server\directory\file.txt`
+
 ## How to install
 
 1. Install workflow to Automator Service
